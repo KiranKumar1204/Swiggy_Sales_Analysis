@@ -47,6 +47,3 @@ This project analyzes Swiggy food delivery sales data to uncover insights into r
 ## 🚀 Project Outcome
 
 This project demonstrates strong data wrangling, KPI building, and trend analysis skills using Python. It highlights the ability to transform raw sales data into meaningful business insights for decision-making.
-
-
-If you want a **more advanced version with metrics (like 15,000+ records, 20% growth detected, etc.)**, tell me your dataset size and I’ll make it stronger for recruiters 🔥
